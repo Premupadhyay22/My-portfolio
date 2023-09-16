@@ -15,7 +15,7 @@ const Home = () => {
             </h2>
             <p className="text-gray-500 py-4 max-w-md">
               I have 1.5 years of experience building and designing software.
-              Currently I love to work on web applications using technologies like Java, C#, React, MySQL, Tailwind.
+              Currently I am working on web applications and CAD and PLM customization and Automation using technologies like Java, C#, REST API, React, MySQL, Tailwind.
             </p>
             <div>
               <Link to='portfolio'

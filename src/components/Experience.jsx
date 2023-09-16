@@ -64,7 +64,7 @@ const Experience = () => {
       id: 9,
       src: mnet,
       title: '.NET',
-      style: 'shadow-blue-500'
+      style: 'shadow-purple-500'
     }
   ]
 
